@@ -1,7 +1,7 @@
 {
-  "name": "datlechin/lang-vietnamese",
+  "name": "MrCorncob/flarum-vietnamese-language-pack",
   "version": "1.0.0",
-  "description": "Vietnamese language pack (datlechin)",
+  "description": "Vietnamese language pack (forked from datlechin)",
   "type": "flarum-extension",
   "license": "MIT",
   "keywords": [
@@ -17,10 +17,15 @@
       "name": "Ngo Quoc Dat (datlechin)",
       "email": "datlechin@gmail.com",
       "homepage": "https://vieit.net"
+    },
+    {
+      "name": "Yen Le",
+      "email": "levu.daiyen@gmail.com",
+      "homepage": "https://daiyen.info"
     }
   ],
   "require": {
-    "flarum/core": "^0.1.0-beta.14"
+    "flarum/core": "^0.1.0"
   },
   "extra": {
     "branch-alias": {
